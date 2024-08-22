@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsdoc": "^4.0.3",
+    "nodejs": "^0.0.0"
+  }
+}
