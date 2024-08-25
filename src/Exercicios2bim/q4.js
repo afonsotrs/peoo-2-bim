@@ -5,12 +5,8 @@
 // replaceWord("The quick brown fox jumps over the lazy dog", "fox", "cat");
 // // retorna "The quick brown cat jumps over the lazy dog"
 
-
-function replaceWord(){
-
-}
-
-
 const replaceWord = (string_original, string_substitida, string_substituta) => {
-
+    return string_original.replace(string_substitida, string_substituta);
 }
+
+console.log(replaceWord('afonso torres', 'torres', 'silva'))
